@@ -1,12 +1,12 @@
 lz-string
 =========
+
 LZ-based compression algorithm for JavaScript
 
-## Install via [npm](https://npmjs.org/)
+This is a re-packaging of lz-string by Pieroxy (original version: https://github.com/pieroxy/lz-string )
+
+## Install via bower
 
 ```shell
-$ npm install lz-string
+$ bower install lz-string-bower
 ```
-
-## Home page
-Home page for this program with examples, documentation and a live demo: http://pieroxy.net/blog/pages/lz-string/index.html
