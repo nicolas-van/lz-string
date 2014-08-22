@@ -108,10 +108,4 @@ describe('LZString', function() {
                          ,false //uint8array_mode: false
                          );
     });
-    describe('uint8array', function() {
-        compressionTests(LZString.compressToUint8Array
-                         ,LZString.decompressFromUint8Array
-                         ,true  //uint8array_mode: true
-                         );
-    });
 });
